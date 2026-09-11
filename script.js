@@ -21,6 +21,12 @@ let quotes = [
         song: "Palayo Sa Mundo",
         artist: "Jolianne, Arthur Nery",
         quote: "At kung 'di pa tama sa mata ng tadhana ay panalangin ang tangi kong alay ."
+    },
+
+    {
+        song: "Baby Steps",
+        artist: "Olivia Dean",
+        quote: "I'll be my own pair of safe hands."
     }
 ];
 
